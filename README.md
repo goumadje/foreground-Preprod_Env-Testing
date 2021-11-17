@@ -2,7 +2,7 @@
 
 
 
-## Terraform Installation And Setup In AWS EC2 AL2 Instnace.
+## Terraform Installation And Setup In AWS EC2 AL2 Instance.
 ##### Prerequisite
 + AWS Acccount.
 + Create AL2 EC2 Instance.
